@@ -291,6 +291,7 @@
     { "language": "python", "repo": "googleapis/python-cloud-core"},
     { "language": "python", "repo": "googleapis/python-access-approval"},
     { "language": "python", "repo": "googleapis/python-access-context-manager"},
+    { "language": "python", "repo": "googleapis/python-aiplatform"}
     { "language": "python", "repo": "googleapis/python-analytics-admin"},
     { "language": "python", "repo": "googleapis/python-analytics-data"},
     { "language": "python", "repo": "googleapis/python-area120-tables"},
